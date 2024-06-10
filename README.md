@@ -2,7 +2,7 @@
 
 Welcome to the Restaurant Website Development project! This repository contains the codebase for a fully responsive and aesthetically pleasing restaurant website built using HTML, CSS, and Bootstrap. The project aims to provide a professional online presence for restaurants, featuring essential components like menus, reservation forms, gallery, and contact information.
 <hr>
-
+![Alt text](https://askaf.in/assets/img/Web-Banner-1.png)
 <h2>Features</h2>
 
 **Responsive Design:** Ensures the website looks great on all devices, from desktops to mobile phones.
